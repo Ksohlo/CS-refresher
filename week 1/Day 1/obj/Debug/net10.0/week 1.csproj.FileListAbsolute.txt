@@ -1,0 +1,28 @@
+/home/k_sohlo/Documents/Me/Classroom/week 1/bin/Debug/net10.0/week 1
+/home/k_sohlo/Documents/Me/Classroom/week 1/bin/Debug/net10.0/week 1.deps.json
+/home/k_sohlo/Documents/Me/Classroom/week 1/bin/Debug/net10.0/week 1.runtimeconfig.json
+/home/k_sohlo/Documents/Me/Classroom/week 1/bin/Debug/net10.0/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/bin/Debug/net10.0/week 1.pdb
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.AssemblyInfoInputs.cache
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.AssemblyInfo.cs
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.csproj.CoreCompileInputs.cache
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/refint/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.pdb
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/week 1.genruntimeconfig.cache
+/home/k_sohlo/Documents/Me/Classroom/week 1/obj/Debug/net10.0/ref/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/bin/Debug/net10.0/week 1
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/bin/Debug/net10.0/week 1.deps.json
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/bin/Debug/net10.0/week 1.runtimeconfig.json
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/bin/Debug/net10.0/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/bin/Debug/net10.0/week 1.pdb
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.AssemblyInfoInputs.cache
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.AssemblyInfo.cs
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.csproj.CoreCompileInputs.cache
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/refint/week 1.dll
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.pdb
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/week 1.genruntimeconfig.cache
+/home/k_sohlo/Documents/Me/Classroom/week 1/Day 1/obj/Debug/net10.0/ref/week 1.dll
